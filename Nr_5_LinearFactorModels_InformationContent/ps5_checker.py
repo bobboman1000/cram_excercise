@@ -35,8 +35,8 @@ b3 = 'no'
 
 # B.4 Which of the FF7 factor is most important for explaining the first principal component of US Blue Chip returns?
 # ['MKT'/'SMB'/'HML'/'RMW'/'CMA'/'REV'/'MOM']
-b4_most_important = ''
+b4_most_important = 'MKT'
 
 # B.5 Do FF7 factors explain variations in other than the first principal component of US Blue Chip returns?
 # ['a lot' / 'a little bit' / 'nothing']
-b5 = ''
+b5 = 'a little bit'
